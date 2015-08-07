@@ -7,7 +7,7 @@
 We work in the same building, but rarely (if ever) do the scientists and eMII developers here work together *directly*.  Developers may have some idea of what scientists do with data, but probably not in detail.  Likewise, scientists may have some understanding of the tools, languages and workflows that eMII work with, but again, not in detail.
 
 #### Improved access to IMOS data and tools
-Following on from the above, a better understanding by eMII developers of how scientists are accessing, storing and managing data can only result in better access to IMOS data.  For example, eMII may be able to deliver data in a format more suitable for analysis, or improve software tools and libraries 
+Following on from the above, a better understanding by eMII developers of how scientists are accessing, storing and managing data can only result in better access to IMOS data.  For example, eMII may be able to deliver data in a format more suitable for analysis, or improve software tools and libraries.
 
 #### Knowledge transfer about tools and general software engineering practices
 eMII developers have in depth experience with a range of tools and general software engineering practices, knowledge of which is likely to also be of benefit to scientists.  
@@ -16,7 +16,7 @@ Some examples:
 
 * suitable data structures and algorithms for particular problems
 * data storage formats
-* profiling techniques
+* code testing and profiling techniques
 * git, testing, databases, web tools, performance profiling etc
 
 ## Program Proposal
